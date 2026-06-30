@@ -13,4 +13,6 @@ S.split()
 S.replace("O","M")
 print(S)
 
+d = "*x***hello**world******"
+d.strip("x*S")
 
